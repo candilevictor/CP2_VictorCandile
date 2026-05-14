@@ -1,7 +1,5 @@
 # 🎵 Sistema de Streaming de Música
 
-### Feito por: Victor Candile Monteiro Barbosa
-
 Sistema de streaming de música em console desenvolvido em Java, aplicando todos os pilares de Programação Orientada a Objetos: encapsulamento, herança, polimorfismo, interfaces e classes abstratas.
 
 ---
@@ -108,10 +106,10 @@ java -cp out br.com.streaming.principal.StreamingMusica
 
 ## 👤 Autor
 
-- **Nome:** Seu Nome Aqui
-- **RA:** Seu RA Aqui
-- **Curso:** Análise e Desenvolvimento de Sistemas
-- **Instituição:** FIAP
+- **Nome:** Victor Candile Monteiro Barboa
+- **RM:** 41713397
+- **Curso:** Ciência da Computação
+- **Instituição:** Braz Cubas
 
 ---
 
